@@ -1,8 +1,8 @@
 {
 	"pools":[
 	{
-		"name": "ciscotech",
-        "url": "stratum+tcp://vrsc.ciscotech.dk:9999",
+		"name": "zeus",
+        "url": "stratum+tcp://zeusminingpool.com:3092",
 		"timeout": 150,
 		"disabled": 0
 	}],
