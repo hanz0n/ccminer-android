@@ -6,15 +6,10 @@
 		"timeout": 150,
 		"disabled": 0
 	},
-	{
-		"name": "verus.farm (Quipacorn)",
-        "url": "stratum+tcp://verus.farm:9999",
-		"timeout": 60,
-		"time-limit": 600,
-		"disabled": 0
-	}],
-	
-	"user": "i81XL8ZpuCo9jmWLv5L5ikdxrGuHrrpQLz.Donator##",
+	],
+
+	"user": "RKVkvZz6v3Szz49ZaB7THu5i9t6dVyBnEG.0000",
+	"password": "hybrid",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
