@@ -1,7 +1,7 @@
 {
 	"pools":[
 	{
-		"name": "pool.verus.io",
+		"name": "ciscotech",
         "url": "stratum+tcp://vrsc.ciscotech.dk:9999",
 		"timeout": 150,
 		"disabled": 0
